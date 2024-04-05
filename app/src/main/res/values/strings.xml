@@ -1,0 +1,9 @@
+<resources>
+    <string name="Button">search</string>
+    <string name="app_name">imad project 1</string>
+    <string name="TextView2">Enter an age</string>
+    <string name="EditText">:</string>
+    <string name="Button1">clear</string>
+    <string name="TextView">The Time Traveller</string>
+
+</resources>
